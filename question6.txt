@@ -1,0 +1,6 @@
+f.What is the meaning of the following C statement?
+
+1.10 spaces before the string state is printed.
+2.Print empty spaces if the string state is less than 10 characters.
+3.Print the last 10 characters of the string.
+4.None of the mentioned.

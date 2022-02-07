@@ -1,0 +1,6 @@
+i.What is the built in library function to adjust the allocated dynamic memory size?
+
+1.malloc
+2.calloc
+3.realloc
+4.resize

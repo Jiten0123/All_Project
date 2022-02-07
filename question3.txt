@@ -1,0 +1,6 @@
+c.which of the following declaration is not supported by C language?
+
+1.string str;
+2.char *str;
+3.float str=3e2;
+4.Both string str; & float str=3e2;

@@ -1,0 +1,6 @@
+h.The type name/reserve word 'short' is ____
+
+1.short long
+2.short char
+3.short float
+4.short int

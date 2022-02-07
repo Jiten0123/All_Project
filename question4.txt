@@ -1,0 +1,6 @@
+d.Which of the following cannot be a variable name in C?
+
+1.true
+2.volatile
+3.main
+4.export

@@ -1,0 +1,6 @@
+b.Which keyword is used to prevent any changes in the variable within a C program?
+
+1.immutable
+2.mutable
+3.const
+4.volatile

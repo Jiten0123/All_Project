@@ -1,0 +1,6 @@
+j.What is a C FILE data type?
+ 
+1.FILE is like a Structure only
+2.FILE is like a Union only
+3.FILE is like a user define int data type
+4.None of the above
